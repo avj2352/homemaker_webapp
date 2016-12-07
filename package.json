@@ -1,0 +1,16 @@
+{
+  "name": "homemaker_webapp",
+  "version": "1.0.0",
+  "description": "Homemaker web application prototype application",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": ["homemaker","kitchen","cooking","teaching","social","CMS"],
+  "author": "PramodAJ, Ananth, Neha, Manjeeth",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
+}
