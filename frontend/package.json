@@ -9,6 +9,11 @@
   "keywords": ["homemaker","kitchen","cooking","teaching","social","CMS"],
   "author": "PramodAJ, Ananth, Neha, Manjeeth",
   "license": "MIT",
+  "homepage": "https://github.com/avj2352/homemaker_webapp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avj2352/homemaker_webapp"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-util": "^3.0.7"
