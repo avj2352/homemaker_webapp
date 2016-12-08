@@ -6,7 +6,14 @@
   "scripts": {
     "start": "http-server"
   },
-  "keywords": ["homemaker","kitchen","cooking","teaching","social","CMS"],
+  "keywords": [
+    "homemaker",
+    "kitchen",
+    "cooking",
+    "teaching",
+    "social",
+    "CMS"
+  ],
   "author": "PramodAJ, Ananth, Neha, Manjeeth",
   "license": "MIT",
   "homepage": "https://github.com/avj2352/homemaker_webapp",
@@ -16,6 +23,12 @@
   },
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-util": "^3.0.7"
+    "gulp-if": "^2.0.2",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-print": "^2.0.1",
+    "gulp-util": "^3.0.7",
+    "jshint-stylish": "^2.2.1",
+    "yargs": "^6.5.0"
   }
 }
